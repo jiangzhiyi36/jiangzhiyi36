@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jiangzhiyi36
+- 👀 I’m interested in Web development enthusiast with skills.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
